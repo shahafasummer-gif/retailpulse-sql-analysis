@@ -65,8 +65,8 @@ customers → orders → order_items ← products ← categories
 
 | Metric | Value |
 |---|---|
-| Total Revenue | $[your number] |
-| Average Order Value | $[your number] |
+| Total Revenue | $9884.23 |
+| Average Order Value | $340.84 |
 | Customer Retention Rate | [your number]% |
 | Top Product by Revenue | [your product name] |
 | Top Category by Revenue | [your category name] |
