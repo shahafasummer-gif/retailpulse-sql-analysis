@@ -67,10 +67,10 @@ customers → orders → order_items ← products ← categories
 |---|---|
 | Total Revenue | $9884.23 |
 | Average Order Value | $340.84 |
-| Customer Retention Rate | [your number]% |
-| Top Product by Revenue | [your product name] |
-| Top Category by Revenue | [your category name] |
-| Best Revenue Month | [your month] |
+| Customer Retention Rate | 50% |
+| Top Product by Revenue | Samsung Galaxy S24 |
+| Top Category by Revenue | Electronics |
+| Best Revenue Month | 2023-01 |
 
 ---
 
